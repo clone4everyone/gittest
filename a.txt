@@ -1,2 +1,11 @@
-karan rawt
+
 role: web dev
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+linkedin
+=======
+skill
+>>>>>>> Stashed changes
+=======
+skill
+>>>>>>> Stashed changes
